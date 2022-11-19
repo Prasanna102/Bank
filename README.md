@@ -2,7 +2,7 @@
 
 #I have desigend a website named bank cards.Here is my project demo link:
 
-#Here is my Github Repositary link:
+#Here is my Github Repositary link:https://github.com/Prasanna102/Bank.git
 
 #Here is my Azure health Bot link:
 
