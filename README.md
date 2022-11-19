@@ -1,14 +1,20 @@
 # Bank
 
+### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
 #I have desigend a website named bank cards.Here is my project demo link:
 
 #Here is my Github Repositary link:https://github.com/Prasanna102/Bank.git
 
 #Here is my Azure health Bot named as BankBot link:https://prasanna102.github.io/Bank/BankBot.html
 
-Azure Technologies used for this project
-Static web app
-Azure Health Bot
+#Azure Technologies used for this project:
+
+  -Static web app
+  -Azure Health Bot
+
+####ScreenShots
+
 
 ![about](https://user-images.githubusercontent.com/114816345/202844794-2fbaf496-a325-40ec-8943-f0e5cbebf522.jpg)
 ![bg](https://user-images.githubusercontent.com/114816345/202844796-e2b61086-44a4-4677-a956-3d1f24c82558.jpg)
