@@ -6,6 +6,10 @@
 
 #Here is my Azure health Bot named as BankBot link:https://prasanna102.github.io/Bank/BankBot.html
 
+Azure Technologies used for this project
+Static web app
+Azure Health Bot
+
 ![about](https://user-images.githubusercontent.com/114816345/202844794-2fbaf496-a325-40ec-8943-f0e5cbebf522.jpg)
 ![bg](https://user-images.githubusercontent.com/114816345/202844796-e2b61086-44a4-4677-a956-3d1f24c82558.jpg)
 ![bg1](https://user-images.githubusercontent.com/114816345/202844797-96d63b32-20f5-4bd4-91f9-d55c3bc4cc65.jpg)
