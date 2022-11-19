@@ -10,8 +10,8 @@
 
 #Azure Technologies used for this project:
 
- # -Static web app
- #- Azure Health Bot
+  -Static web app
+  -Azure Health Bot
 
 ####ScreenShots
 
